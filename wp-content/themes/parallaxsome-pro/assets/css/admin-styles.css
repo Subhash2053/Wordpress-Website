@@ -1,0 +1,93 @@
+/**
+ * Styles for admin
+ */
+/*=================================================
+            Meta Box section
+=================================================*/
+.ps-meta-container {
+	display: inline-block;
+    width: 100%;
+}
+#parallaxsome_post_meta ul.ps-meta-menu-wrapper {
+	width: 22%;
+	float: left;
+	box-sizing: border-box;
+}
+.ps-single-meta {
+    display: none;
+}
+.ps-single-meta.active {
+    display: block;
+}
+.ps-meta-tab span.dashicons {
+    margin-right: 7px;
+}
+.ps-meta-menu-wrapper li {
+    margin: 0;
+    padding: 10px;
+    border: 1px solid #dcdcdc;
+    border-bottom: none;
+    cursor: pointer;
+}
+.ps-meta-menu-wrapper li:last-child {
+	border-bottom: 1px solid #dcdcdc;
+}
+
+.ps-meta-menu-wrapper {
+    width: 25%;
+    float: left;
+}
+.ps-metabox-content-wrapper {
+    width: 73%;
+    float: right;
+    padding-left: 10px;
+}
+
+/*=================================================
+            Radio Image Control
+=================================================*/
+.ps-meta-options-wrap .ui-button {
+    margin:        0;
+    border-radius: 0;
+    border:        none;
+    background:    transparent;
+}
+
+.ps-meta-options-wrap .ui-button-text { padding: 0; }
+
+.ps-meta-options-wrap img {
+    box-sizing: border-box;
+    max-width:  100%;
+    height:     auto;
+    padding:    1px;
+    border:     4px solid transparent;
+}
+
+.ps-meta-options-wrap img:hover,
+.ps-meta-options-wrap img:focus {
+    border-color: #ddd;
+}
+
+.ps-meta-options-wrap .ui-state-active img {
+    border-color: #00a0d2;
+}
+
+/** Gallery Add css blog **/
+.gal-img-block {
+    display: inline-block;
+}
+span.fig-remove {
+    position: relative;
+    bottom: 10px;
+    border: solid 2px #c1c1c1;
+    border-radius: 3px;
+    padding: 4px;
+    right: 103px;
+    color: white;
+    background: #888;
+}
+span.fig-remove:hover{
+    background: #cc5252;
+    color: #fff;
+    cursor: pointer;
+}

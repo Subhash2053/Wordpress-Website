@@ -1,0 +1,17 @@
+{
+  "name": "outlandishideas/outlandish-wordpress-starter-theme",
+  "type": "wordpress-theme",
+  "license": "MIT",
+  "description": "WordPress starter theme for working with Outlandish WordPress projects",
+  "homepage": "http://outlandish.com/",
+  "authors": [
+    {
+      "name": "Matthew Kendon",
+      "email": "matt@outlandish.com",
+      "homepage": "https://github.com/outlandishideas"
+    }
+  ],
+  "keywords": [
+    "wordpress"
+  ]
+}

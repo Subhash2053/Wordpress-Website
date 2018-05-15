@@ -1,0 +1,60 @@
+<wpml-config>
+<admin-texts>
+<key name="theme_mods_parallaxsome-pro">
+    <key name="about_section_title" />
+    <key name="about_section_sub_title" />
+    <key name="feature_section_title" />
+    <key name="team_section_title" />
+    <key name="team_section_sub_title" />
+    <key name="team_section_description" />
+    <key name="team_view_more_txt" />
+    <key name="booking_section_title" />
+    <key name="booking_section_sub_title" />
+    <key name="booking_section_description" />
+    <key name="booking_section_phone_number" />
+    <key name="cta_title" />
+    <key name="cta_section_description" />
+    <key name="cta_button_one_text" />
+    <key name="cta_button_two_text" />
+    <key name="services_section_title" />
+    <key name="services_section_sub_title" />
+    <key name="services_section_description" />
+    <key name="testimonials_section_title" />
+    <key name="testimonials_section_sub_title" />
+    <key name="fact_section_title" />
+    <key name="fact_section_sub_title" />
+    <key name="fact_section_description" />
+    <key name="portfolio_section_title" />
+    <key name="portfolio_section_sub_title" />
+    <key name="portfolio_section_description" />
+    <key name="quick_link_section_title" />
+    <key name="quick_link_section_subject_title" />
+    <key name="quick_link_section_subject_description" />
+    <key name="quick_link_section_button_text" />
+    <key name="faq_section_title" />
+    <key name="faq_section_description" />
+    <key name="pricing_section_title" />
+    <key name="pricing_section_description" />
+    <key name="skill_section_title" />
+    <key name="skill_section_description" />
+    <key name="item_section_title" />
+    <key name="item_section_sub_title" />
+    <key name="item_section_content_title" />
+    <key name="item_section_content_sub_title" />
+    <key name="video_section_title" />
+    <key name="blog_section_title" />
+    <key name="blog_section_sub_title" />
+    <key name="blog_section_description" />
+    <key name="blog_section_read_button" />
+    <key name="blog_section_view_all_txt" />
+    <key name="clients_section_title" />
+    <key name="clients_section_sub_title" />
+    <key name="contact_section_title" />
+    <key name="contact_section_sub_title" />
+    <key name="contact_section_phone" />
+    <key name="contact_section_address" />
+    <key name="contact_map_caption" />
+    <key name="ps_copyright_text" />
+</key>
+</admin-texts>
+</wpml-config>

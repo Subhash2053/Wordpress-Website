@@ -1,0 +1,1375 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-16 07:19+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: 404.php:18
+msgid "400"
+msgstr ""
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#. Name of the template
+msgid "Blog Page"
+msgstr ""
+
+#: archive-blog.php:57 single-blog.php:52
+msgid "BY "
+msgstr ""
+
+#: archive-blog.php:59 single-blog.php:54 template-parts/content-archive.php:28
+#: template-parts/content-search.php:23 template-parts/content.php:28
+#: template-parts/sections/section-blog.php:30
+msgid "Read More"
+msgstr ""
+
+#. Name of the template
+msgid "Team Page"
+msgstr ""
+
+#: comments.php:35
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#. 1: number of comments, 2: post title
+#: comments.php:39
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:55
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:58
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:59
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:80
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:75
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:76
+msgid "Top Header Menu"
+msgstr ""
+
+#: inc/parallaxsome-breadcrumbs.php:13
+msgid "Home"
+msgstr ""
+
+#: inc/parallaxsome-breadcrumbs.php:16
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: inc/parallaxsome-breadcrumbs.php:121
+msgid "Page"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:100
+msgid "Main"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:101
+msgid "Top Section"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:104
+#: template-parts/sections/section-about.php:16
+msgid "About"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:105
+msgid "About Us"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:108
+msgid "Feature"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:109
+msgid "Feature Section"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:113
+#: template-parts/sections/section-team.php:16
+msgid "Our Team"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:117
+msgid "Booking Section"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:121
+msgid "Call To Action"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:124
+msgid "Services"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:125
+#: template-parts/sections/section-services.php:16
+msgid "Our Services"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:129
+msgid "Testimonial Section"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:133
+msgid "Fact Us"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:137
+msgid "Portfolio Section"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:141
+msgid "Quick Link"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:145
+msgid "FAQ"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:148
+msgid "Pricing"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:149
+msgid "Pricing Table"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:153
+msgid "Skill Section"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:157
+msgid "Item Section"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:161
+msgid "Video Section"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:164
+msgid "Blog"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:165
+#: template-parts/sections/section-blog.php:16
+msgid "Our Blog"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:169
+#: template-parts/sections/section-clients.php:16
+msgid "Our Clients"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:172
+msgid "Contact"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:173
+#: template-parts/sections/section-contact.php:16
+msgid "Contact Us"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:283
+msgid "Select post"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:324
+#: template-parts/sections/section-services.php:68
+msgid "Learn More"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:372
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:612
+msgid "--Choose--"
+msgstr ""
+
+#: inc/parallaxsome-functions.php:666
+msgid "Preloader"
+msgstr ""
+
+#: inc/template-tags.php:31 inc/template-tags.php:76 inc/template-tags.php:122
+msgid "post date"
+msgstr ""
+
+#: inc/template-tags.php:36 inc/template-tags.php:81 inc/template-tags.php:127
+msgid "post author"
+msgstr ""
+
+#. %s: post title
+#. %s: post title
+#. %s: post title
+#: inc/template-tags.php:45 inc/template-tags.php:90 inc/template-tags.php:136
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:155
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:157
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. %s: Name of current post
+#. %s: Name of current post
+#: inc/template-tags.php:164 template-parts/content-page.php:33
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: template-parts/content-none.php:16
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:23
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:27
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:33
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:21 template-parts/content-single.php:39
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-single.php:34
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Name of the template
+msgid "Home Page"
+msgstr ""
+
+#: welcome/welcome.php:30
+msgid "Custom Post Types"
+msgstr ""
+
+#: welcome/welcome.php:34
+msgid ""
+"Parallaxsome Custom Post type plugin allows you to have option of custom "
+"post types for Teams and Blogs."
+msgstr ""
+
+#: welcome/welcome.php:44
+msgid "Instant Demo Importer"
+msgstr ""
+
+#: welcome/welcome.php:48 welcome/sections/actions_required.php:81
+msgid ""
+"Instant Demo Importer Plugin adds the feature to Import the Demo Conent with "
+"a single click."
+msgstr ""
+
+#: welcome/welcome.php:55
+msgid "Getting Started"
+msgstr ""
+
+#: welcome/welcome.php:56 welcome/sections/getting_started.php:6
+msgid "Recommended Actions"
+msgstr ""
+
+#: welcome/welcome.php:57
+msgid "Recommended Plugins"
+msgstr ""
+
+#: welcome/welcome.php:58
+msgid "Import Demo"
+msgstr ""
+
+#: welcome/welcome.php:59
+msgid "Support"
+msgstr ""
+
+#: welcome/welcome.php:87
+msgid "Accesspress Social Pro"
+msgstr ""
+
+#: welcome/welcome.php:99
+msgid "Smart Logo Showcase"
+msgstr ""
+
+#: welcome/welcome.php:111
+msgid "WP Mega Menu Pro"
+msgstr ""
+
+#: welcome/welcome.php:178
+msgid "Lets Get Started"
+msgstr ""
+
+#: welcome/welcome.php:187 welcome/welcome.php:187
+msgid "Welcome"
+msgstr ""
+
+#: welcome/welcome.php:199
+#, php-format
+msgid "Welcome to %s - Version %s"
+msgstr ""
+
+#: welcome/welcome.php:200
+#, php-format
+msgid ""
+"%s is a beautiful free responsive one page WordPress theme with awesome "
+"parallax scrolling effect. It is a highly customizable and flexible WP "
+"template suitable for multipurpose websites like business, agency, blog, "
+"portfolio, eCommerce etc."
+msgstr ""
+
+#: welcome/welcome.php:246 welcome/sections/actions_required.php:40
+#: welcome/sections/actions_required.php:73 welcome/sections/demo_import.php:30
+#: welcome/sections/demo_import.php:63
+#: welcome/sections/recommended_plugins.php:33
+#: welcome/sections/recommended_plugins.php:90
+msgid "Activate"
+msgstr ""
+
+#: welcome/welcome.php:247
+msgid "Activated"
+msgstr ""
+
+#: welcome/welcome.php:248
+msgid "Installing Demo"
+msgstr ""
+
+#: welcome/welcome.php:249
+msgid "Demo Installed"
+msgstr ""
+
+#: welcome/welcome.php:250
+msgid "Are you sure to import demo content ?"
+msgstr ""
+
+#: welcome/welcome.php:357
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr ""
+
+#: welcome/welcome.php:365 welcome/welcome.php:445
+msgid "Error - unable to verify nonce, please try again."
+msgstr ""
+
+#: welcome/welcome.php:438
+msgid "Sorry, you are not allowed to activate plugins on this site."
+msgstr ""
+
+#: welcome/welcome.php:467
+msgid "There was an error activating $api->name"
+msgstr ""
+
+#: welcome/welcome.php:534
+msgid "Classic Demo"
+msgstr ""
+
+#: welcome/welcome.php:541
+msgid "Corporate Demo"
+msgstr ""
+
+#: welcome/welcome.php:550
+msgid "Restaurant Demo"
+msgstr ""
+
+#: inc/customizer/additional-panel.php:30
+msgid "Additional Settings"
+msgstr ""
+
+#: inc/customizer/additional-panel.php:42
+msgid "Social Icons"
+msgstr ""
+
+#: inc/customizer/additional-panel.php:54
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer/additional-panel.php:55
+msgid "Twitter"
+msgstr ""
+
+#: inc/customizer/additional-panel.php:56
+msgid "Linkedin"
+msgstr ""
+
+#: inc/customizer/additional-panel.php:57
+msgid "Pinterest"
+msgstr ""
+
+#: inc/customizer/additional-panel.php:58
+msgid "Google Plus"
+msgstr ""
+
+#: inc/customizer/additional-panel.php:59
+msgid "Youtube"
+msgstr ""
+
+#: inc/customizer/customizer.php:26
+msgid "Theme Info"
+msgstr ""
+
+#: inc/customizer/design-panel.php:33
+msgid "Design Settings"
+msgstr ""
+
+#: inc/customizer/design-panel.php:45
+msgid "Archive Settings"
+msgstr ""
+
+#: inc/customizer/design-panel.php:67
+msgid "Archive Sidebars"
+msgstr ""
+
+#: inc/customizer/design-panel.php:68 inc/customizer/design-panel.php:131
+#: inc/customizer/design-panel.php:187 inc/customizer/design-panel.php:243
+#: inc/customizer/design-panel.php:300
+msgid "Choose sidebar from available layouts"
+msgstr ""
+
+#: inc/customizer/design-panel.php:72 inc/customizer/design-panel.php:135
+#: inc/customizer/design-panel.php:191 inc/customizer/design-panel.php:247
+#: inc/customizer/design-panel.php:304 inc/customizer/footer-panel.php:70
+#: inc/widgets/parallaxsome-widget-functions.php:36
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer/design-panel.php:76 inc/customizer/design-panel.php:139
+#: inc/customizer/design-panel.php:195 inc/customizer/design-panel.php:251
+#: inc/customizer/design-panel.php:308 inc/customizer/footer-panel.php:74
+#: inc/widgets/parallaxsome-widget-functions.php:21
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer/design-panel.php:80 inc/customizer/design-panel.php:143
+#: inc/customizer/design-panel.php:199 inc/customizer/design-panel.php:255
+#: inc/customizer/design-panel.php:312 inc/customizer/footer-panel.php:78
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/customizer/design-panel.php:84 inc/customizer/design-panel.php:147
+#: inc/customizer/design-panel.php:203 inc/customizer/design-panel.php:259
+#: inc/customizer/design-panel.php:316 inc/customizer/footer-panel.php:82
+msgid "No Sidebar Center"
+msgstr ""
+
+#: inc/customizer/design-panel.php:108
+msgid "Page Settings"
+msgstr ""
+
+#: inc/customizer/design-panel.php:130
+msgid "Page Sidebars"
+msgstr ""
+
+#: inc/customizer/design-panel.php:164
+msgid "Post Settings"
+msgstr ""
+
+#: inc/customizer/design-panel.php:186
+msgid "Post Sidebars"
+msgstr ""
+
+#: inc/customizer/design-panel.php:220
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/customizer/design-panel.php:242
+msgid "Blog Sidebars"
+msgstr ""
+
+#: inc/customizer/design-panel.php:277
+msgid "Team Settings"
+msgstr ""
+
+#: inc/customizer/design-panel.php:299
+msgid "Team Sidebars"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:30
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:43
+msgid "Footer Widget Settings"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:65
+msgid "Footer Widget Layout"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:66
+msgid "Choose layout from available layouts"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:99
+msgid "Bottom Footer Settings"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:113
+msgid "2016 ParallaxSome"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:122
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/general-panel.php:39
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/general-panel.php:47
+msgid "Template Color"
+msgstr ""
+
+#: inc/customizer/general-panel.php:68
+msgid "Select Template color for your site"
+msgstr ""
+
+#: inc/customizer/general-panel.php:78
+msgid "Pre Loader Setting"
+msgstr ""
+
+#: inc/customizer/general-panel.php:103
+msgid "Enable / Disable Pre Loader"
+msgstr ""
+
+#: inc/customizer/general-panel.php:104
+msgid "Enable/Disable option for Pre Loader."
+msgstr ""
+
+#: inc/customizer/general-panel.php:107 inc/customizer/header-panel.php:343
+#: inc/customizer/parallaxsome-sanitize.php:57
+msgid "Enable"
+msgstr ""
+
+#: inc/customizer/general-panel.php:108 inc/customizer/header-panel.php:344
+#: inc/customizer/parallaxsome-sanitize.php:58
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer/general-panel.php:123
+msgid "Preloader Icon"
+msgstr ""
+
+#: inc/customizer/header-panel.php:20
+msgid "Innerpages Header Image"
+msgstr ""
+
+#: inc/customizer/header-panel.php:36
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer/header-panel.php:48
+msgid "Top Header Settings"
+msgstr ""
+
+#: inc/customizer/header-panel.php:72
+msgid "Top Header Option"
+msgstr ""
+
+#: inc/customizer/header-panel.php:73
+msgid "Show/hide option for Top Header Section."
+msgstr ""
+
+#: inc/customizer/header-panel.php:76 inc/customizer/header-panel.php:106
+#: inc/customizer/header-panel.php:237 inc/customizer/header-panel.php:314
+#: inc/customizer/parallaxsome-sanitize.php:40
+msgid "Show"
+msgstr ""
+
+#: inc/customizer/header-panel.php:77 inc/customizer/header-panel.php:107
+#: inc/customizer/header-panel.php:238 inc/customizer/header-panel.php:315
+#: inc/customizer/parallaxsome-sanitize.php:41
+msgid "Hide"
+msgstr ""
+
+#: inc/customizer/header-panel.php:102
+msgid "Social Icons Option"
+msgstr ""
+
+#: inc/customizer/header-panel.php:103
+msgid "Show/hide option for Top Header Social Icon Section."
+msgstr ""
+
+#: inc/customizer/header-panel.php:122
+msgid "Menu Settings"
+msgstr ""
+
+#: inc/customizer/header-panel.php:145
+msgid "Primary Menu Type"
+msgstr ""
+
+#: inc/customizer/header-panel.php:146
+msgid "Please Disable Primery menu first to enable parallax menu"
+msgstr ""
+
+#: inc/customizer/header-panel.php:149
+#: inc/customizer/parallaxsome-sanitize.php:74
+msgid "Parallax"
+msgstr ""
+
+#: inc/customizer/header-panel.php:150 inc/customizer/header-panel.php:178
+#: inc/customizer/parallaxsome-sanitize.php:75
+#: inc/customizer/parallaxsome-sanitize.php:102
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/header-panel.php:174
+msgid "Parallax Menu Type"
+msgstr ""
+
+#: inc/customizer/header-panel.php:175
+msgid "Choose type of Parallax Menu."
+msgstr ""
+
+#: inc/customizer/header-panel.php:179
+#: inc/customizer/parallaxsome-sanitize.php:103
+msgid "Float Menu"
+msgstr ""
+
+#: inc/customizer/header-panel.php:203
+msgid "Menu Background"
+msgstr ""
+
+#: inc/customizer/header-panel.php:204
+msgid "Choose Menu Background Transparent or White Background"
+msgstr ""
+
+#: inc/customizer/header-panel.php:207
+#: inc/customizer/parallaxsome-sanitize.php:91
+msgid "Transparent"
+msgstr ""
+
+#: inc/customizer/header-panel.php:208
+#: inc/customizer/parallaxsome-sanitize.php:92
+msgid "White"
+msgstr ""
+
+#: inc/customizer/header-panel.php:233
+msgid "Hidden Sidebar"
+msgstr ""
+
+#: inc/customizer/header-panel.php:234
+msgid "This hidden sidebar featue not available on folating menu."
+msgstr ""
+
+#: inc/customizer/header-panel.php:257
+msgid "Menu Text For Parallax Menu"
+msgstr ""
+
+#: inc/customizer/header-panel.php:310
+msgid "Search Icon"
+msgstr ""
+
+#: inc/customizer/header-panel.php:311
+msgid "Show/hide search icons on primary menu section."
+msgstr ""
+
+#: inc/customizer/header-panel.php:339
+msgid "Header Sticky"
+msgstr ""
+
+#: inc/customizer/header-panel.php:340
+msgid "Enable/disable option for header sticky."
+msgstr ""
+
+#: inc/customizer/parallaxsome-customizer-classes.php:123
+msgid "&mdash; Select Category &mdash;"
+msgstr ""
+
+#: inc/customizer/parallaxsome-customizer-classes.php:515
+msgid "No image selected"
+msgstr ""
+
+#: inc/customizer/parallaxsome-customizer-classes.php:521
+#: inc/widgets/widget-fields.php:180
+msgid "Remove"
+msgstr ""
+
+#: inc/customizer/parallaxsome-customizer-classes.php:522
+msgid "Select Image"
+msgstr ""
+
+#: inc/customizer/parallaxsome-customizer-classes.php:531
+msgid "Select Category"
+msgstr ""
+
+#: inc/customizer/parallaxsome-customizer-classes.php:532
+#: inc/customizer/parallaxsome-customizer-classes.php:632
+msgid "Latest Posts"
+msgstr ""
+
+#: inc/customizer/parallaxsome-customizer-classes.php:656
+msgid "Delete"
+msgstr ""
+
+#: inc/customizer/parallaxsome-customizer-classes.php:657
+msgid "Close"
+msgstr ""
+
+#. $id
+#: inc/metaboxes/metabox.php:16
+msgid "Post Options"
+msgstr ""
+
+#: inc/metaboxes/metabox.php:29
+msgid "Default Sidebar"
+msgstr ""
+
+#: inc/metaboxes/metabox.php:35
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/metaboxes/metabox.php:41
+msgid "Right sidebar"
+msgstr ""
+
+#: inc/metaboxes/metabox.php:47
+msgid "No sidebar Full width"
+msgstr ""
+
+#: inc/metaboxes/metabox.php:53
+msgid "No sidebar Content Centered"
+msgstr ""
+
+#: inc/metaboxes/metabox.php:68
+msgid "Information"
+msgstr ""
+
+#: inc/metaboxes/metabox.php:69
+msgid "Sidebars"
+msgstr ""
+
+#: inc/metaboxes/metabox.php:76
+msgid "About Metabox Options"
+msgstr ""
+
+#: inc/metaboxes/metabox.php:78
+msgid ""
+"If we choose sidebar layout from the metabox optiin the page or post will "
+"show sidebar layout form the metabox and if we leave empty the sidebar "
+"layout will display form customizer->Design Setting."
+msgstr ""
+
+#: inc/metaboxes/metabox.php:84
+msgid "Available Sidebars"
+msgstr ""
+
+#: inc/metaboxes/metabox.php:85
+msgid ""
+"Select sidebar from available options which replaced sidebar layout from "
+"customizer settings."
+msgstr ""
+
+#: inc/typography/typography.php:20
+msgid "Typography Settings"
+msgstr ""
+
+#: inc/typography/typography.php:24
+msgid "Body"
+msgstr ""
+
+#: inc/typography/typography.php:39
+msgid "Body Typography"
+msgstr ""
+
+#: inc/typography/typography.php:40 inc/typography/typography.php:74
+#: inc/typography/typography.php:108 inc/typography/typography.php:142
+#: inc/typography/typography.php:177 inc/typography/typography.php:211
+#: inc/typography/typography.php:245 inc/typography/typography.php:277
+#: inc/typography/typography.php:307
+msgid "Select how you want your paragraphs to appear."
+msgstr ""
+
+#: inc/typography/typography.php:58
+msgid "Header (H1)"
+msgstr ""
+
+#: inc/typography/typography.php:73
+msgid "Header1 Typography"
+msgstr ""
+
+#: inc/typography/typography.php:92
+msgid "Header (H2)"
+msgstr ""
+
+#: inc/typography/typography.php:107
+msgid "Header2 Typography"
+msgstr ""
+
+#: inc/typography/typography.php:126
+msgid "Header (H3)"
+msgstr ""
+
+#: inc/typography/typography.php:141
+msgid "Header3 Typography"
+msgstr ""
+
+#: inc/typography/typography.php:161
+msgid "Header (H4)"
+msgstr ""
+
+#: inc/typography/typography.php:176
+msgid "Header4 Typography"
+msgstr ""
+
+#: inc/typography/typography.php:195
+msgid "Header (H5)"
+msgstr ""
+
+#: inc/typography/typography.php:210
+msgid "Header5 Typography"
+msgstr ""
+
+#: inc/typography/typography.php:229
+msgid "Header (H6)"
+msgstr ""
+
+#: inc/typography/typography.php:244
+msgid "Header6 Typography"
+msgstr ""
+
+#: inc/typography/typography.php:263 inc/typography/typography.php:276
+msgid "Home Section Title Typography"
+msgstr ""
+
+#: inc/typography/typography.php:293 inc/typography/typography.php:306
+msgid "Home Section Sub-Title Typography"
+msgstr ""
+
+#: inc/widgets/footer-info.php:24
+msgid "Parallaxsome : Footer Info"
+msgstr ""
+
+#: inc/widgets/footer-info.php:25 inc/widgets/pricing-widget.php:25
+msgid "A widget that shows information"
+msgstr ""
+
+#: inc/widgets/footer-info.php:40
+msgid "Info Title"
+msgstr ""
+
+#: inc/widgets/footer-info.php:45
+msgid "Location"
+msgstr ""
+
+#: inc/widgets/footer-info.php:50
+msgid "Phone"
+msgstr ""
+
+#: inc/widgets/footer-info.php:55
+msgid "Fax"
+msgstr ""
+
+#: inc/widgets/footer-info.php:60
+msgid "Email"
+msgstr ""
+
+#: inc/widgets/parallaxsome-widget-functions.php:23
+msgid ""
+"Added widgets are display at Right Sidebar section in every "
+"posts/pages/archive."
+msgstr ""
+
+#: inc/widgets/parallaxsome-widget-functions.php:38
+msgid ""
+"Added widgets are display at Left Sidebar section in every "
+"posts/pages/archive."
+msgstr ""
+
+#: inc/widgets/parallaxsome-widget-functions.php:51
+msgid "Contact Map"
+msgstr ""
+
+#: inc/widgets/parallaxsome-widget-functions.php:53
+msgid "Added widgets are display at Contact Us section at homepage."
+msgstr ""
+
+#: inc/widgets/parallaxsome-widget-functions.php:66
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: inc/widgets/parallaxsome-widget-functions.php:68
+msgid ""
+"Added widgets are display at Sidebar section only in woocommerce "
+"posts/pages/archives."
+msgstr ""
+
+#: inc/widgets/parallaxsome-widget-functions.php:81
+#, php-format
+msgid "Footer Area %d"
+msgstr ""
+
+#: inc/widgets/parallaxsome-widget-functions.php:83
+msgid "Added widgets are display at Footer Widget Area."
+msgstr ""
+
+#: inc/widgets/parallaxsome-widget-functions.php:95
+msgid "Pricing Widget Area"
+msgstr ""
+
+#: inc/widgets/parallaxsome-widget-functions.php:97
+#: inc/widgets/parallaxsome-widget-functions.php:106
+msgid "Added widgets are display on pricing section."
+msgstr ""
+
+#: inc/widgets/parallaxsome-widget-functions.php:104
+msgid "Header Hidden Sidebar"
+msgstr ""
+
+#: inc/widgets/pricing-widget.php:24
+msgid "Parallaxsome : Pricing Table"
+msgstr ""
+
+#: inc/widgets/pricing-widget.php:40
+msgid "Offer Title"
+msgstr ""
+
+#: inc/widgets/pricing-widget.php:45
+msgid "Currency"
+msgstr ""
+
+#: inc/widgets/pricing-widget.php:50
+msgid "Price"
+msgstr ""
+
+#: inc/widgets/pricing-widget.php:55
+msgid "Service Duration"
+msgstr ""
+
+#: inc/widgets/pricing-widget.php:60
+msgid "Service Feature One"
+msgstr ""
+
+#: inc/widgets/pricing-widget.php:65
+msgid "Service Feature Two"
+msgstr ""
+
+#: inc/widgets/pricing-widget.php:70
+msgid "Service Feature Three"
+msgstr ""
+
+#: inc/widgets/pricing-widget.php:75
+msgid "Service Feature Four"
+msgstr ""
+
+#: inc/widgets/pricing-widget.php:80
+msgid "Service Feature Five"
+msgstr ""
+
+#: inc/widgets/pricing-widget.php:85
+msgid "Service Feature Six"
+msgstr ""
+
+#: inc/widgets/pricing-widget.php:90
+msgid "Service Feature Seven"
+msgstr ""
+
+#: inc/widgets/pricing-widget.php:95
+msgid "Service Feature Eight"
+msgstr ""
+
+#: inc/widgets/pricing-widget.php:100
+msgid "Link Button Text"
+msgstr ""
+
+#: inc/widgets/pricing-widget.php:105
+msgid "Button Link"
+msgstr ""
+
+#: inc/widgets/recent-blog.php:24
+msgid "parallaxsome : Recent Blog"
+msgstr ""
+
+#: inc/widgets/recent-blog.php:25
+msgid "A widget that shows Recent blog"
+msgstr ""
+
+#: inc/widgets/recent-blog.php:41 inc/widgets/recent-post.php:41
+msgid "Recent Posts Title"
+msgstr ""
+
+#: inc/widgets/recent-blog.php:46 inc/widgets/recent-post.php:52
+msgid "Post To Display"
+msgstr ""
+
+#: inc/widgets/recent-blog.php:51 inc/widgets/recent-post.php:57
+msgid "Hide Image"
+msgstr ""
+
+#: inc/widgets/recent-blog.php:56 inc/widgets/recent-post.php:62
+msgid "Enable Date"
+msgstr ""
+
+#: inc/widgets/recent-blog.php:61 inc/widgets/recent-post.php:67
+msgid "Disable Contents"
+msgstr ""
+
+#: inc/widgets/recent-post.php:24
+msgid "parallaxsome : Recent Posts"
+msgstr ""
+
+#: inc/widgets/recent-post.php:25
+msgid "A widget that shows Recent News"
+msgstr ""
+
+#: inc/widgets/recent-post.php:46
+msgid "Recent Posts Category"
+msgstr ""
+
+#: inc/widgets/widget-fields.php:10
+msgid "--choose--"
+msgstr ""
+
+#: inc/widgets/widget-fields.php:170
+msgid "No file chosen"
+msgstr ""
+
+#: inc/widgets/widget-fields.php:172
+msgid "Upload"
+msgstr ""
+
+#: inc/widgets/widget-fields.php:174
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: inc/widgets/widget-fields.php:196
+msgid "View File"
+msgstr ""
+
+#: template-parts/sections/section-about.php:17
+msgid "Who We Are"
+msgstr ""
+
+#: template-parts/sections/section-about.php:21
+msgid "Get Started"
+msgstr ""
+
+#: template-parts/sections/section-about.php:39
+#: template-parts/sections/section-about.php:84
+msgid "About Image"
+msgstr ""
+
+#: template-parts/sections/section-blog.php:17
+#: template-parts/sections/section-clients.php:17
+msgid "Latest News"
+msgstr ""
+
+#: template-parts/sections/section-blog.php:62
+#: template-parts/sections/section-team.php:123
+msgid "View All"
+msgstr ""
+
+#: template-parts/sections/section-contact.php:17
+msgid "More Info"
+msgstr ""
+
+#: template-parts/sections/section-contact.php:18
+msgid "(44) 123 456 7894"
+msgstr ""
+
+#: template-parts/sections/section-contact.php:20
+msgid "Alaxender Avenue, Harrow, Middlesex, UK"
+msgstr ""
+
+#: template-parts/sections/section-contact.php:21
+msgid "Locate Us on Map"
+msgstr ""
+
+#: template-parts/sections/section-contact.php:42
+msgid "Call us:"
+msgstr ""
+
+#: template-parts/sections/section-contact.php:46
+msgid "visit us:"
+msgstr ""
+
+#: template-parts/sections/section-cta.php:40
+#: template-parts/sections/section-cta.php:40
+msgid "Call To Action Image"
+msgstr ""
+
+#: template-parts/sections/section-fact.php:16
+msgid "Fact About Us"
+msgstr ""
+
+#: template-parts/sections/section-fact.php:17
+#: template-parts/sections/section-services.php:17
+msgid "Our Works"
+msgstr ""
+
+#: template-parts/sections/section-faq.php:13
+#: template-parts/sections/section-faq.php:13
+msgid "FAQ Feature Image"
+msgstr ""
+
+#: template-parts/sections/section-portfolio.php:16
+msgid "Portfolio"
+msgstr ""
+
+#: template-parts/sections/section-portfolio.php:17
+msgid "Best Porjects"
+msgstr ""
+
+#: template-parts/sections/section-portfolio.php:38
+msgid "All"
+msgstr ""
+
+#: template-parts/sections/section-quicklink.php:17
+msgid "Purchase Now"
+msgstr ""
+
+#: template-parts/sections/section-team.php:17
+#: template-parts/sections/section-testimonials.php:17
+msgid "Group Together"
+msgstr ""
+
+#: template-parts/sections/section-testimonials.php:16
+msgid "Clients Say"
+msgstr ""
+
+#: welcome/sections/actions_required.php:12
+msgid "Customize Theme"
+msgstr ""
+
+#: welcome/sections/actions_required.php:30
+#: welcome/sections/actions_required.php:61 welcome/sections/demo_import.php:20
+#: welcome/sections/demo_import.php:51
+#: welcome/sections/recommended_plugins.php:21
+#: welcome/sections/recommended_plugins.php:80
+msgid "Install and Activate"
+msgstr ""
+
+#: welcome/sections/actions_required.php:35
+#: welcome/sections/actions_required.php:67 welcome/sections/demo_import.php:25
+#: welcome/sections/demo_import.php:57
+#: welcome/sections/recommended_plugins.php:27
+#: welcome/sections/recommended_plugins.php:85
+msgid "Deactivate"
+msgstr ""
+
+#: welcome/sections/actions_required.php:47
+#: welcome/sections/actions_required.php:80 welcome/sections/demo_import.php:36
+#: welcome/sections/demo_import.php:70
+#, php-format
+msgid "Install : %s Plugin"
+msgstr ""
+
+#: welcome/sections/actions_required.php:48 welcome/sections/demo_import.php:37
+msgid "Install Contact Form 7 to add the contact forms."
+msgstr ""
+
+#: welcome/sections/getting_started.php:4
+msgid "Step 1 - Recommended Actions"
+msgstr ""
+
+#: welcome/sections/getting_started.php:5
+msgid ""
+"Before you start setting up the theme, there are few recommended action that "
+"you need to follow. These recommendation helps you to set up the theme more "
+"easily and quickly."
+msgstr ""
+
+#: welcome/sections/getting_started.php:10
+msgid "Step 2 - Customizer Options Panel"
+msgstr ""
+
+#: welcome/sections/getting_started.php:11
+msgid ""
+"Using the WordPress Customizer you can easily customize every aspect of the "
+"theme."
+msgstr ""
+
+#: welcome/sections/getting_started.php:12
+msgid "Go to Customizer Panels"
+msgstr ""
+
+#: welcome/sections/recommended_plugins.php:10
+msgid "Pro Plugins"
+msgstr ""
+
+#: welcome/sections/recommended_plugins.php:11
+msgid "Take Advantage of some of our Premium Plugins"
+msgstr ""
+
+#: welcome/sections/recommended_plugins.php:66
+msgid "Free Plugins"
+msgstr ""
+
+#: welcome/sections/recommended_plugins.php:67
+msgid "These Free Plugins might be handy for you."
+msgstr ""
+
+#: welcome/sections/support.php:2
+msgid "Documentation"
+msgstr ""
+
+#: welcome/sections/support.php:3
+#, php-format
+msgid ""
+"Read the detailed documentation of the theme. The documentation contain all "
+"the necessary information required to setup the theme %s."
+msgstr ""
+
+#: welcome/sections/support.php:4
+msgid "Read Full Documentation"
+msgstr ""
+
+#: welcome/sections/support.php:8 welcome/sections/support.php:10
+msgid "Create Support Tickets"
+msgstr ""
+
+#: welcome/sections/support.php:9
+msgid ""
+"Still having problem after reading all the documentation? No Problem!! "
+"Please create a support ticket. Our dedicated support team will help you to "
+"solve your problem"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:42
+msgid "Font Family"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:43
+msgid "Font Size"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:44
+msgid "Font Weight/Style"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:45
+msgid "Line Height"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:46
+msgid "Text Decoration"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:47
+msgid "Text Transform"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:48
+msgid "Font Color label"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:212
+msgid "Hex Value"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:287
+msgid "Normal"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:288
+msgid "Bold"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:301
+#: inc/typography/customize/control-typography.php:317
+msgid "None"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:302
+msgid "Underline"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:303
+msgid "Line-through"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:304
+msgid "Overline"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:318
+msgid "Uppercase"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:319
+msgid "Lowercase"
+msgstr ""
+
+#: inc/typography/customize/control-typography.php:320
+msgid "Capitalize"
+msgstr ""
+
+#. Name of the theme
+msgid "ParallaxSome Pro"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"ParallaxSome is a beautiful free responsive one page WordPress theme with "
+"awesome parallax scrolling effect. It is a highly customizable and flexible "
+"WP template suitable for multipurpose websites like business, agency, blog, "
+"portfolio, eCommerce etc. It is a fully responsive theme  that fits "
+"perfectly on any device. ParallaxSome theme comes with various homepage "
+"sections each beautifully designed. Each of the home page sections in your "
+"single page site can be further customized with easy to use customization "
+"options. The theme is based on WordPress Live Customizer that allows you to "
+"customize the complete theme instantly. It is clean, simple, SEO friendly, "
+"flexible, multilingual, and feature-rich theme for modern websites."
+msgstr ""
+
+#. URI of the theme
+msgid "http://demo.accesspressthemes.com/parallaxsome-pro/"
+msgstr ""
+
+#. Author of the theme
+msgid "AccessPress Themes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://accesspressthemes.com/"
+msgstr ""

@@ -1,0 +1,99 @@
+<header id="masthead" class="site-header">
+		<div class="site-branding">
+			<?php
+			the_custom_logo();
+			if ( is_front_page() && is_home() ) :
+				?>
+				<h1 class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h1>
+				<?php
+			else :
+				?>
+				<p class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></p>
+				<?php
+			endif;
+			$subhash_description = get_bloginfo( 'description', 'display' );
+			if ( $subhash_description || is_customize_preview() ) :
+				?>
+				<p class="site-description"><?php echo $subhash_description; /* WPCS: xss ok. */ ?></p>
+			<?php endif; ?>
+		</div><!-- .site-branding -->
+
+		<nav id="site-navigation" class="main-navigation">
+			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><?php esc_html_e( 'Primary Menu', 'subhash' ); ?></button>
+			<?php
+			wp_nav_menu( array(
+				'theme_location' => 'menu-1',
+				'menu_id'        => 'primary-menu',
+			) );
+			?>
+		</nav><!-- #site-navigation -->
+	</header><!-- #masthead
+
+
+
+<footer id="colophon" class="site-footer">
+		<div class="site-info">
+			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'subhash' ) ); ?>">
+				<?php
+				/* translators: %s: CMS name, i.e. WordPress. */
+				printf( esc_html__( 'Proudly powered by %s', 'subhash' ), 'WordPress' );
+				?>
+			</a>
+			<span class="sep"> | </span>
+				<?php
+				/* translators: 1: Theme name, 2: Theme author. */
+				printf( esc_html__( 'Theme: %1$s by %2$s.', 'subhash' ), 'subhash', '<a href="http://underscores.me/">Underscores.me</a>' );
+				?>
+		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+
+
+
+	<article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
+    	<header class="entry-header">
+    		<?php
+    		if ( is_singular() ) :
+    			the_title( '<h1 class="entry-title">', '</h1>' );
+    		else :
+    			the_title( '<h2 class="entry-title"><a href="' . esc_url( get_permalink() ) . '" rel="bookmark">', '</a></h2>' );
+    		endif;
+
+    		if ( 'post' === get_post_type() ) :
+    			?>
+    			<div class="entry-meta">
+    				<?php
+    				subhash_posted_on();
+    				subhash_posted_by();
+    				?>
+    			</div><!-- .entry-meta -->
+    		<?php endif; ?>
+    	</header><!-- .entry-header -->
+
+    	<?php subhash_post_thumbnail(); ?>
+
+    	<div class="entry-content">
+    		<?php
+    		the_content( sprintf(
+    			wp_kses(
+    				/* translators: %s: Name of current post. Only visible to screen readers */
+    				__( 'Continue reading<span class="screen-reader-text"> "%s"</span>', 'subhash' ),
+    				array(
+    					'span' => array(
+    						'class' => array(),
+    					),
+    				)
+    			),
+    			get_the_title()
+    		) );
+
+    		wp_link_pages( array(
+    			'before' => '<div class="page-links">' . esc_html__( 'Pages:', 'subhash' ),
+    			'after'  => '</div>',
+    		) );
+    		?>
+    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<?php subhash_entry_footer(); ?>
+    	</footer><!-- .entry-footer -->
+    </article><!-- #post-<?php the_ID(); ?> -->
