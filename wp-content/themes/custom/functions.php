@@ -6,19 +6,7 @@
 }
 
 add_action('wp_enqueue_scripts','get_resource');*/
-/*function create_post_type() {
-    register_post_type( 'acme_product',
-        array(
-            'labels' => array(
-                'name' => __( 'Products' ),
-                'singular_name' => __( 'Product' )
-            ),
-            'public' => true,
-            'has_archive' => true,
-        )
-    );
-}*/
-//add_action( 'init', 'create_post_type' );
+
 add_theme_support( 'title-tag' );
 add_theme_support( 'post-thumbnails' );
 function ad_bootstrap_enqueue() {
@@ -208,5 +196,4 @@ function lwp_footer_callout($wp_customize) {
 }
 
 add_action('customize_register', 'lwp_footer_callout');
-
 

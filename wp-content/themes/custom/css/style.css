@@ -1,3 +1,17 @@
+/*
+Theme Name: Mero Theme
+Author: Subhash GC
+Author URI: http://subhashgc.tk
+Description: THis is just simple theme
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: php, new, gc
+Text Domain: Mero Theme
+
+
+*/
+
 /* 3rd party packages */
 @import "normalize.css";
 @import "slick-carousel/slick/slick.css";
